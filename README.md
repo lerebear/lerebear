@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**lerebear/lerebear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp>
+  <h3>Hi, I'm Lere 👋</h3>
+  <p>I'm an engineer at GitHub where, recently, I've been working on Projects.</p>
+  <p>Other than software, I'd also love to chat about
+    <a href="http://www.miabirdsong.com/how-we-show-up">How We Show Up</a>,
+    <a href="https://www.penguinrandomhouse.com/books/538034/exhalation-by-ted-chiang/">Exhalation</a>,
+    or <a href="https://freddiegibbsmadlib.bandcamp.com/album/bandana">Bandana</a>.
+  </p>
+  <p>You can reach me via <a href="mailto:lerebear@github.com">email</a> or on <a href="https://twitter.com/lerebear">Twitter</a>.
+ </samp>
