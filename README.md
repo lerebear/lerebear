@@ -1,5 +1,5 @@
 <samp>
-  <h3>Hi, I'm Lere 👋</h3>
+  <h3>Hi, I'm Lérè 👋</h3>
   <ul>
     <li>I'm an engineer at GitHub where, recently, I've been working on Projects.</li>
     <li>I write occasional notes on software development at <a href="https://lrbr.dev">lrbr.dev</a>.</li>
